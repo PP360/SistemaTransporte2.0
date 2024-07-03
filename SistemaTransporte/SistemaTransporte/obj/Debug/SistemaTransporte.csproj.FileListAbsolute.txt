@@ -1,0 +1,64 @@
+d:\visual studio 2017\Projects\SistemaTransporte\SistemaTransporte\bin\Debug\SistemaTransporte.exe.config
+d:\visual studio 2017\Projects\SistemaTransporte\SistemaTransporte\bin\Debug\SistemaTransporte.exe
+d:\visual studio 2017\Projects\SistemaTransporte\SistemaTransporte\bin\Debug\SistemaTransporte.pdb
+d:\visual studio 2017\Projects\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.csprojResolveAssemblyReference.cache
+d:\visual studio 2017\Projects\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.Properties.Resources.resources
+d:\visual studio 2017\Projects\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.csproj.GenerateResource.Cache
+d:\visual studio 2017\Projects\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.exe
+d:\visual studio 2017\Projects\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.pdb
+d:\visual studio 2017\Projects\SistemaTransporte\SistemaTransporte\bin\Debug\MySql.Data.xml
+d:\visual studio 2017\Projects\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmUnidades.resources
+d:\visual studio 2017\Projects\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmCuotas.resources
+d:\visual studio 2017\Projects\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmPrincipal.resources
+C:\Program Files\SistemaTransporte\SistemaTransporte\bin\Debug\SistemaTransporte.exe.config
+C:\Program Files\SistemaTransporte\SistemaTransporte\bin\Debug\SistemaTransporte.exe
+C:\Program Files\SistemaTransporte\SistemaTransporte\bin\Debug\SistemaTransporte.pdb
+C:\Program Files\SistemaTransporte\SistemaTransporte\bin\Debug\MySql.Data.xml
+C:\Program Files\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.csprojResolveAssemblyReference.cache
+C:\Program Files\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmCuotas.resources
+C:\Program Files\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmPrincipal.resources
+C:\Program Files\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmUnidades.resources
+C:\Program Files\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.Properties.Resources.resources
+C:\Program Files\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.csproj.GenerateResource.Cache
+C:\Program Files\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.exe
+C:\Program Files\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.pdb
+d:\visual studio 2017\Projects\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmImpresionTickets.resources
+d:\visual studio 2017\Projects\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmConsultaUnidad.resources
+d:\visual studio 2017\Projects\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmCuotasDia.resources
+C:\Program Files\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmConsultaUnidad.resources
+C:\Program Files\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmCuotasDia.resources
+C:\Program Files\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmImpresionTickets.resources
+d:\visual studio 2017\Projects\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmConsultaPagoFechas.resources
+C:\Program Files\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmConsultaPagoFechas.resources
+C:\Program Files\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\bin\Debug\SistemaTransporte.exe.config
+C:\Program Files\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\bin\Debug\SistemaTransporte.exe
+C:\Program Files\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\bin\Debug\SistemaTransporte.pdb
+C:\Program Files\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\bin\Debug\MySql.Data.xml
+C:\Program Files\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.csprojResolveAssemblyReference.cache
+C:\Program Files\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmConsultaPagoFechas.resources
+C:\Program Files\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmConsultaUnidad.resources
+C:\Program Files\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmCuotas.resources
+C:\Program Files\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmCuotasDia.resources
+C:\Program Files\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmImpresionTickets.resources
+C:\Program Files\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmPrincipal.resources
+C:\Program Files\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmUnidades.resources
+C:\Program Files\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.Properties.Resources.resources
+C:\Program Files\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.csproj.GenerateResource.Cache
+C:\Program Files\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.exe
+C:\Program Files\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.pdb
+E:\Develops\JANITZIO 20042024\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\bin\Debug\SistemaTransporte.exe.config
+E:\Develops\JANITZIO 20042024\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\bin\Debug\SistemaTransporte.exe
+E:\Develops\JANITZIO 20042024\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\bin\Debug\SistemaTransporte.pdb
+E:\Develops\JANITZIO 20042024\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\bin\Debug\MySql.Data.dll
+E:\Develops\JANITZIO 20042024\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\bin\Debug\MySql.Data.xml
+E:\Develops\JANITZIO 20042024\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmConsultaPagoFechas.resources
+E:\Develops\JANITZIO 20042024\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmConsultaUnidad.resources
+E:\Develops\JANITZIO 20042024\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmCuotas.resources
+E:\Develops\JANITZIO 20042024\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmCuotasDia.resources
+E:\Develops\JANITZIO 20042024\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmImpresionTickets.resources
+E:\Develops\JANITZIO 20042024\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmPrincipal.resources
+E:\Develops\JANITZIO 20042024\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.frmUnidades.resources
+E:\Develops\JANITZIO 20042024\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.Properties.Resources.resources
+E:\Develops\JANITZIO 20042024\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.csproj.GenerateResource.Cache
+E:\Develops\JANITZIO 20042024\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.exe
+E:\Develops\JANITZIO 20042024\SistemaTransporte2.0\SistemaTransporte\SistemaTransporte\obj\Debug\SistemaTransporte.pdb
